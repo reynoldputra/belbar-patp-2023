@@ -1,4 +1,4 @@
-# Belbar IT PATP
+# Belajar Bareng IT PATP
 
 [Contoh Soal](https://github.com/reynoldputra/belbar-patp-2023/blob/main/contoh-soal.md)
 
