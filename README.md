@@ -1,5 +1,7 @@
 # Belbar IT PATP
 
+[Contoh Soal](https://github.com/reynoldputra/belbar-patp-2023/blob/main/contoh-soal.md)
+
 # Percabangan
 Percabangan memungkinkan kita untuk menentukan kode manakah yang akan kita eksekusi berdasarkan suatu kondisi. Percabangan di bahasa C ada 4, yaitu `if`, `if-else`, `if-else if`, dan `switch`.
 
